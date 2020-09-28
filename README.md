@@ -38,6 +38,7 @@ li a:hover {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-<img <a href="https://vignette.wikia.nocookie.net/naruto/images/d/dd/Naruto_Uzumaki%21%21.png/revision/latest?cb=20161013233552"> src="https://vignette.wikia.nocookie.net/naruto/images/d/dd/Naruto_Uzumaki%21%21.png/revision/latest?cb=20161013233552" alt="20200720-115006" style="width:700px;height:600px; border="0" </a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CWJ0c3P/Naruto-Uzumaki.png" alt="Naruto-Uzumaki" border="0"></a>
+
 </body>
 </html>
