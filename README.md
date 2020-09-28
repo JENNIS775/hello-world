@@ -28,7 +28,7 @@ li a:hover {
 </style>
 </head>
 <body>
-  <h1>Getting server updates</h1>
+  
 <div id="result"></div>
 
 <script>
