@@ -28,7 +28,6 @@ li a:hover {
 </style>
 </head>
 <body>
-  <p>Click the button to get your coordinates.</p>
 
 <button onclick="getLocation()">Get started</button>
 
