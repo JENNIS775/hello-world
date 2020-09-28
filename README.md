@@ -38,7 +38,7 @@ li a:hover {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/CWJ0c3P/Naruto-Uzumaki.png" alt="Naruto-Uzumaki" width="500" height="600" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CWJ0c3P/Naruto-Uzumaki.png" alt="Naruto-Uzumaki" width="700" height="600" border="0"></a>
 
 </body>
 </html>
